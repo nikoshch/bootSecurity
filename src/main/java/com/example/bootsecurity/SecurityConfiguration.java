@@ -1,4 +1,4 @@
-package com.example.bootSecurity;
+package com.example.bootsecurity;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
